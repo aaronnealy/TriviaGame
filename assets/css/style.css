@@ -1,0 +1,34 @@
+body{
+    background-image: url("../images/gotham-city-wallpaper-16.jpg")
+}
+#wrapper{
+margin: 75px;
+background-color: rgb(14, 14, 27);
+padding: 50px;
+opacity: 0.9;
+}
+
+#title{
+color: gold;
+text-align: center;
+font-family: 'Spectral SC', serif;
+font-size: 35px;
+}
+
+#subwrapper{
+    text-align: center;
+    color:gold;
+}
+
+#end{
+    padding: 15px;
+    margin: 25px;
+    width: 100px;
+}
+
+#start{
+    padding:15px;
+    margin: 25px;
+    width: 100px;
+}
+
